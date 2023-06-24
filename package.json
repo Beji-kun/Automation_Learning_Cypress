@@ -1,0 +1,19 @@
+{
+  "name": "automation_cypress_learning",
+  "version": "1.0.0",
+  "description": "Learning automation cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beji-kun/Automation_Learning_Cypress.git"
+  },
+  "author": "Adam Kocourek, Beji-kun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beji-kun/Automation_Learning_Cypress/issues"
+  },
+  "homepage": "https://github.com/Beji-kun/Automation_Learning_Cypress#readme"
+}
