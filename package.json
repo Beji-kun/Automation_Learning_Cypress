@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Beji-kun/Automation_Learning_Cypress/issues"
   },
-  "homepage": "https://github.com/Beji-kun/Automation_Learning_Cypress#readme"
+  "homepage": "https://github.com/Beji-kun/Automation_Learning_Cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.15.0"
+  }
 }
